@@ -1,3 +1,2 @@
 # Lista-simplismente-encadeada-circular
-Codigo de estrutura de dados: pilha feito em C++,compilado na IDE DevC++, para estudos;
-fique a vontade para alterar e comentar o arquivo (PORFAVOR COMENTAR QUALQUER ALTERAÇÃO)
+Codigo de estrutura de dados: lista simplismente encadeada circular feito em C++
